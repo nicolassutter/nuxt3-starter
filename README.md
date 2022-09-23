@@ -30,7 +30,7 @@ npm run dev
 Build the application for production:
 
 ```bash
-npm run build
+npm run generate
 ```
 
 Locally preview production build:
